@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Analyst Personal Projects:</h2>
 
 - <b>Building a Home SOC with (Splunk)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SIEM Set-Up Snapshot](https://github.com/HackPhive/SettingUpSIEM)
 
 <h2>🔖Licenses & certifications </h2>
 
