@@ -1,6 +1,6 @@
 <h1> Hi, I'm Declan! </h1>
 
-<h2>👨‍💻 Cybersecurity Analyst Personal Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Building a Home SOC with (Splunk)</b>
   - [SIEM Set-Up Snapshot](https://github.com/HackPhive/SettingUpSIEM)
