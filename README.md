@@ -8,7 +8,7 @@
   - [End-to-End SOC Simulation Snapshot](https://github.com/HackPhive/End-to-End-SOC-Simulation)
  
 - <b>Security Analysis</b>
-  - [Phishing Analysis](https://github.com/HackPhive/SettingUpSIEM)
+  - [Phishing Analysis](https://github.com/HackPhive/Phishing-Analysis)
 
 <h2>🔖Licenses & certifications </h2>
 
