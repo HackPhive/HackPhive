@@ -6,6 +6,9 @@
 - <b>Building a Home SOC with (Splunk)</b>
   - [SIEM Set-Up Snapshot](https://github.com/HackPhive/SettingUpSIEM)
   - [End-to-End SOC Simulation Snapshot](https://github.com/HackPhive/End-to-End-SOC-Simulation)
+ 
+- <b>Security Analysis</b>
+  - [Phishing Analysis](https://github.com/HackPhive/SettingUpSIEM)
 
 <h2>🔖Licenses & certifications </h2>
 
