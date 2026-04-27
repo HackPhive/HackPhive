@@ -7,7 +7,7 @@
   - [SIEM Set-Up Snapshot](https://github.com/HackPhive/SettingUpSIEM)
   - [End-to-End SOC Simulation Snapshot](https://github.com/HackPhive/End-to-End-SOC-Simulation)
  
-- <b>Security Analysis</b>
+- <b>Phishing Analysis</b>
   - [Phishing Analysis](https://github.com/HackPhive/Phishing-Analysis)
  
 - <b>Security Automation (Python / Bash)</b>
