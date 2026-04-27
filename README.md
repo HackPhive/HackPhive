@@ -11,7 +11,7 @@
   - [Phishing Analysis](https://github.com/HackPhive/Phishing-Analysis)
  
 - <b>Security Automation (Python / Bash)</b>
-  - [Security Automation](https://github.com/HackPhive/Phishing-Analysis)
+  - [Security Automation](https://github.com/HackPhive/Security-Automation)
 
 <h2>🔖Licenses & certifications </h2>
 
