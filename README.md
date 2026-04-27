@@ -9,6 +9,9 @@
  
 - <b>Security Analysis</b>
   - [Phishing Analysis](https://github.com/HackPhive/Phishing-Analysis)
+ 
+- <b>Security Automation (Python / Bash)</b>
+  - [Security Automation](https://github.com/HackPhive/Phishing-Analysis)
 
 <h2>🔖Licenses & certifications </h2>
 
