@@ -12,6 +12,19 @@
  
 - <b>Security Automation (Python / Bash)</b>
   - [Security Automation](https://github.com/HackPhive/Security-Automation)
+ 
+
+<h2>👨‍💻 Python Programming Language Projeccts:</h2>
+
+- <b>Building a Home SOC with (Splunk)</b>
+  - [SIEM Set-Up Snapshot](https://github.com/HackPhive/SettingUpSIEM)
+  - [End-to-End SOC Simulation Snapshot](https://github.com/HackPhive/End-to-End-SOC-Simulation)
+ 
+- <b>Phishing Analysis</b>
+  - [Phishing Analysis](https://github.com/HackPhive/Phishing-Analysis)
+ 
+- <b>Security Automation (Python / Bash)</b>
+  - [Security Automation](https://github.com/HackPhive/Security-Automation)
 
 <h2>🔖Licenses & certifications </h2>
 
