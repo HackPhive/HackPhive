@@ -14,7 +14,7 @@
   - [Security Automation](https://github.com/HackPhive/Security-Automation)
  
 
-<h2>👨‍💻 Python Programming Language Projeccts:</h2>
+<h2>👨‍💻 Python Programming Language Projects:</h2>
 
 - <b>Building a Home SOC with (Splunk)</b>
   - [SIEM Set-Up Snapshot](https://github.com/HackPhive/SettingUpSIEM)
