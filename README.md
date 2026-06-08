@@ -17,8 +17,7 @@
 <h2>👨‍💻 Python Programming Language Projects:</h2>
 
 - <b>Tic-Tac-Toe Game (Python)</b>
-  - [SIEM Set-Up Snapshot](https://github.com/HackPhive/SettingUpSIEM)
-  - [End-to-End SOC Simulation Snapshot](https://github.com/HackPhive/End-to-End-SOC-Simulation)
+  - [Tic-Tac-Toe](https://github.com/HackPhive/tic-tac-toe-python/)
 
 <h2>🔖Licenses & certifications </h2>
 
