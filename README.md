@@ -1,5 +1,5 @@
 <h1> Hi, I'm Declan, ComptiA Certified Security Analyst</h1>
-<p>This Portfolio is to demonstrate my skill set and personal project as a Security Analyst</p>
+<p>This Portfolio demonstrates my skill set and personal project as a Security Analyst</p>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
